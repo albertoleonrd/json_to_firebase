@@ -1,0 +1,77 @@
+[
+  {
+    "id": "001",
+    "name": "Smartphone XYZ",
+    "category": "Electronics",
+    "price": 599.99,
+    "specifications": {
+      "brand": "TechCorp",
+      "model": "XYZ-2000",
+      "color": "Black",
+      "storage": "128GB",
+      "features": ["5G", "Water Resistant", "Dual Camera"]
+    },
+    "inStock": true,
+    "reviews": [
+      {
+        "user": "user123",
+        "rating": 4.5,
+        "comment": "Great phone, excellent camera quality!"
+      },
+      {
+        "user": "user456",
+        "rating": 5.0,
+        "comment": "Best smartphone I've ever had."
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "name": "Laptop ABC",
+    "category": "Electronics",
+    "price": 1299.99,
+    "specifications": {
+      "brand": "ComputerCorp",
+      "model": "ABC-Pro",
+      "color": "Silver",
+      "processor": "Intel i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "features": ["Backlit Keyboard", "Touchscreen", "Fingerprint Reader"]
+    },
+    "inStock": true,
+    "reviews": [
+      {
+        "user": "user789",
+        "rating": 4.8,
+        "comment": "Powerful and fast. Perfect for work and gaming."
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "name": "Wireless Headphones",
+    "category": "Audio",
+    "price": 199.99,
+    "specifications": {
+      "brand": "AudioTech",
+      "model": "SoundPro",
+      "color": "White",
+      "batteryLife": "20 hours",
+      "features": ["Noise Cancellation", "Bluetooth 5.0", "Voice Assistant"]
+    },
+    "inStock": false,
+    "reviews": [
+      {
+        "user": "user101",
+        "rating": 4.0,
+        "comment": "Good sound quality but battery drains quickly."
+      },
+      {
+        "user": "user202",
+        "rating": 4.7,
+        "comment": "Comfortable to wear for long periods."
+      }
+    ]
+  }
+]
